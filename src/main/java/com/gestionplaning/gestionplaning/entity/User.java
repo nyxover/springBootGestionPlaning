@@ -1,5 +1,4 @@
-package com.filrouge.admingestionplanning.dao.entities;
-
+package com.gestionplaning.gestionplaning.entity;
 import jakarta.persistence.*;
 
 @Entity
