@@ -1,4 +1,5 @@
 package com.gestionplaning.gestionplaning.entity;
+
 import jakarta.persistence.*;
 
 @Entity
@@ -94,5 +95,4 @@ public class User {
     public void setImg(String img) {
         this.img = img;
     }
-
 }
